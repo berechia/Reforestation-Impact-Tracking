@@ -22,3 +22,6 @@ A Clarity smart contract for monitoring and rewarding tree planting initiatives 
 ```bash
 clarinet new reforestation-impact-tracking
 cd reforestation-impact-tracking
+## Recent Updates
+- Initial smart contract implementation complete
+- All core functions tested and working
